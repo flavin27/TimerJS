@@ -1,0 +1,17 @@
+@charset 'UTF-8';
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+header {
+    font-size: 34px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding: 10px;
+}
+section {
+    text-align: center;
+    padding: 10px;
+    font-size: 30px;
+}
